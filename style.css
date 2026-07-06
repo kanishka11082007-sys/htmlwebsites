@@ -1,0 +1,37 @@
+@media (max-width: 768px) {
+    .row{
+        flex-direction: column;
+    }
+}
+li{
+    font-size: large;
+}
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 3em;
+    text-align: center;
+}
+p{
+    font-size: large;
+}
+body{
+    background-color: burlywood;
+    padding: 20px;
+
+}
+.row{
+    display: flex;
+    gap: 20px;
+}
+.box{
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin-top: 10px;
+    border: 2px solid black;
+}
+.projects{
+    flex: 1;
+}
+.work{
+    flex: 1;
+}
