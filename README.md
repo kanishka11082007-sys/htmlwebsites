@@ -26,7 +26,7 @@ A simple multi-page website built using **semantic HTML** as part of the roadmap
 
 ## Live Demo
 
-https://basichtmlwebbsite.netlify.app/
+https://6a4b75ec18033e3fcba95384--htmlwebsitewithcss.netlify.app/
 
 ## Project URL
 
