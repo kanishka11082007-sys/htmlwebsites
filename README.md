@@ -30,7 +30,7 @@ https://6a4b75ec18033e3fcba95384--htmlwebsitewithcss.netlify.app/
 
 ## Project URL
 
-https://roadmap.sh/projects/basic-html-website
+https://roadmap.sh/projects/portfolio-website
 
 ## Repository
 
